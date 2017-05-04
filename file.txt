@@ -1,0 +1,21 @@
+a.php				home search page
+111.php				redirected here when a video's info is to be seen
+a.sql				sql click info table creation
+data.py				Retrieves json data from mongo on  111.php for display
+index.py			find pages related to search queries on indexed mongo on a.php
+neo4j.py			find realted videos by video id on 111.php
+
+css/				css files for a.php & 111.php
+
+login/
+Login1.php			login page
+login.php			login page backend
+sign.php			signup page backend
+signup.php			signup page
+sql.sql				sql table creation for login & signup
+1.css 				css file for login & signup
+
+insert/
+insertion.py		insert data in mongo
+js.py				insert data in neo4j
+test/				500 json files
